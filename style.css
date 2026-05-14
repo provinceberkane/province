@@ -88,7 +88,7 @@ nav a:hover::after {
     margin-top: 74px;
     background:
         linear-gradient(90deg, rgba(13, 53, 95, 0.88) 0%, rgba(13, 53, 95, 0.72) 42%, rgba(13, 53, 95, 0.08) 70%),
-        url("images/province.png") center / cover;
+        url("province.png") center / cover;
 }
 
 .hero-box {
@@ -474,7 +474,7 @@ iframe {
         margin-top: 72px;
         background:
             linear-gradient(rgba(13, 53, 95, 0.82), rgba(13, 53, 95, 0.82)),
-            url("images/province.png") center / cover;
+            url("province.png") center / cover;
     }
 
     .hero-box {
